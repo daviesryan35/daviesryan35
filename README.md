@@ -18,10 +18,7 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 * Networking Basics
 
 **OpenLearn (Open University):**
-* [An Introduction to Computers and Computer Systems](https://www.open.edu/openlearn/digital-computing/an-introduction-computers-and-computer-systems/content-section-overview) — Introductory Digital & Computing
-* [An Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/content-section-0) — Intermediate Science, Maths & Technology
 * [Introducing ICT Systems](https://www.open.edu/openlearn/digital-computing/introducing-ict-systems/content-section-0) — Introductory Digital & Computing
-* [Sound for Music Technology: An Introduction](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/sound-music-technology-an-introduction/content-section-0) — Introductory Engineering & Technology
 
 ### Contact & Links
 - **Official Website:** [ukcell.net](https://ukcell.net)
