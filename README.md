@@ -12,13 +12,11 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 * **Failover:** ZTE Cat6 4G Router
 
 ### 📜 Certifications & Learning
-**Cisco:**
-* Hardware and Upgrade Support
-* Computer Hardware Basics
-* Networking Basics
-
-**OpenLearn (Open University):**
-* [Introducing ICT Systems](https://www.open.edu/openlearn/digital-computing/introducing-ict-systems/content-section-0) — Introductory Digital & Computing
+* [Cisco Hardware and Upgrade Support](https://www.credly.com/badges/ba950d95-9a4f-4ef9-984a-d50a192f289a)
+* [Cisco Computer Hardware Basics](https://www.credly.com/badges/f3f99bb2-0beb-4c6a-9050-1979187866b2)
+* [Cisco Networking Basics](https://www.credly.com/badges/1f4bd200-ceb2-42c7-9315-514f176332c2)
+* [Cisco Introduction to IoT](https://www.credly.com/badges/c40ddf31-ac6f-4e2d-86f8-00f071f264f4)
+* [Introducing ICT Systems](https://www.open.edu/openlearn/digital-computing/introducing-ict-systems/content-section-0) — OpenLearn (Open University)
 
 ### Contact & Links
 - **Official Website:** [ukcell.net](https://ukcell.net)
